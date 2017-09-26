@@ -1,0 +1,5 @@
+Lowercase and udnerscores
+
+Example : sols_art
+	: meshes
+	: particle_effects

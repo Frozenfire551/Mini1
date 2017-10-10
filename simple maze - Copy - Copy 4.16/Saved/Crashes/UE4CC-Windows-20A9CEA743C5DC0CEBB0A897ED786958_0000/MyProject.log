@@ -1,0 +1,1317 @@
+﻿Log file open, 10/11/17 03:41:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-515517022) SRandInit(-515517022).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.258387
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.10-14.41.09:691][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.10-14.41.09:692][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.10-14.41.09:794][  0]LogInit: Computer: ZETA
+[2017.10.10-14.41.09:794][  0]LogInit: User: Nik
+[2017.10.10-14.41.09:794][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.10.10-14.41.09:794][  0]LogInit: High frequency timer resolution =2.338342 MHz
+[2017.10.10-14.41.09:794][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.10.10-14.41.09:794][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.10-14.41.09:794][  0]LogMemory: Process Physical Memory: 277.40 MB used, 277.40 MB peak
+[2017.10.10-14.41.09:794][  0]LogMemory: Process Virtual Memory: 276.14 MB used, 276.14 MB peak
+[2017.10.10-14.41.09:794][  0]LogMemory: Physical Memory: 9954.34 MB used,  6351.92 MB free, 16306.27 MB total
+[2017.10.10-14.41.09:794][  0]LogMemory: Virtual Memory: 667.14 MB used,  6351.92 MB free, 134217728.00 MB total
+[2017.10.10-14.41.10:164][  0]LogInit: Using OS detected language (en-US).
+[2017.10.10-14.41.10:164][  0]LogInit: Using OS detected locale (en-NZ).
+[2017.10.10-14.41.10:391][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.10-14.41.18:836][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.10-14.41.18:908][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 850M' (Feature Level 11_0)
+[2017.10.10-14.41.18:908][  0]LogD3D11RHI:       4065/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.10.10-14.41.18:921][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2017.10.10-14.41.18:921][  0]LogD3D11RHI:       128/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.10.10-14.41.18:924][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.10-14.41.18:924][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.10-14.41.18:924][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.10-14.41.18:940][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.10-14.41.18:940][  0]LogD3D11RHI:     GPU DeviceId: 0x1391 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.10-14.41.18:940][  0]LogWindows: EnumDisplayDevices:
+[2017.10.10-14.41.18:940][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2017.10.10-14.41.18:940][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:1)
+[2017.10.10-14.41.18:941][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.10.10-14.41.18:941][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.10.10-14.41.18:941][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 850M
+[2017.10.10-14.41.18:941][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.10.10-14.41.18:941][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.10.10-14.41.18:941][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.10-14.41.18:969][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.10-14.41.18:984][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.10-14.41.18:986][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Intermediate/Shaders/WorkingDirectory/18088/).
+[2017.10.10-14.41.18:986][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nik/AppData/Local/Temp/UnrealShaderWorkingDir/A0BDBA374F69454CB052A3A0261C2CA0/'.
+[2017.10.10-14.41.18:986][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.10-14.41.23:857][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.10-14.41.23:977][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.10-14.41.24:091][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.10-14.41.24:196][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.10-14.41.24:343][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.10-14.41.24:445][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.10-14.41.24:548][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.10-14.41.24:680][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.10-14.41.24:791][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.10-14.41.24:957][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.10-14.41.25:072][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.10-14.41.25:164][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.10-14.41.25:278][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.10-14.41.25:376][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.10-14.41.25:473][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.10-14.41.25:673][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.10-14.41.25:673][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.10-14.41.25:748][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.10-14.41.25:952][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.10-14.41.26:008][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.10-14.41.26:128][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.10-14.41.26:227][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.10-14.41.26:330][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.10-14.41.26:446][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.10-14.41.26:446][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.10-14.41.27:447][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.10-14.41.27:864][  0]LogDerivedDataCache: Loaded boot cache 0.42s 93MB C:/Users/Nik/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.10-14.41.27:864][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nik/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.10-14.41.27:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.10-14.41.27:865][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.10-14.41.27:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.10-14.41.27:865][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.10-14.41.27:900][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.10-14.41.27:915][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nik/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.10-14.41.27:945][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.10-14.41.27:946][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.10-14.41.27:975][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.10-14.41.27:975][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.10-14.41.29:937][  0]LogAssetRegistry: FAssetRegistry took 0.0391 seconds to start up
+[2017.10.10-14.41.30:236][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.10-14.41.30:578][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.10-14.41.31:279][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.10-14.41.31:364][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.10-14.41.31:364][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.10-14.41.31:364][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.10-14.41.31:364][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.10-14.41.31:364][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.10-14.41.31:990][  0]LogNetVersion: MyProject , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3113362612)
+[2017.10.10-14.41.32:549][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.173216 seconds
+[2017.10.10-14.41.32:562][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.10-14.41.32:562][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.10.10-14.41.32:562][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.10-14.41.32:746][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.10-14.42.32:850][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.10-14.42.32:931][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.10-14.42.35:229][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.10-14.42.36:725][  0]SourceControl: Source control is disabled
+[2017.10.10-14.42.36:725][  0]SourceControl: Source control is disabled
+[2017.10.10-14.42.36:864][  0]SourceControl: Source control is disabled
+[2017.10.10-14.42.37:000][  0]SourceControl: Source control is disabled
+[2017.10.10-14.42.40:449][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.10-14.42.41:081][  0]LogOcInput: OculusInput pre-init called
+[2017.10.10-14.42.41:871][  0]LogEngine: Initializing Engine...
+[2017.10.10-14.42.41:873][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.10-14.42.42:401][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.10-14.42.42:401][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.10-14.42.42:718][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.10-14.42.42:740][  0]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-14.42.42:760][  0]LogInit: FAudioDevice initialized.
+[2017.10.10-14.42.42:948][  0]LogDerivedDataCache: Saved boot cache 0.19s 93MB C:/Users/Nik/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.10-14.42.42:973][  0]LogInit: Texture streaming: Enabled
+[2017.10.10-14.42.43:334][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.10-14.42.44:574][  0]LogInit: Transaction tracking system initialized
+[2017.10.10-14.42.45:478][  0]BlueprintLog: New page: Editor Load
+[2017.10.10-14.42.48:212][  0]LocalizationService: Localization service is disabled
+[2017.10.10-14.42.50:282][  0]LogConsoleResponse: Display: 
+[2017.10.10-14.42.50:723][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.10-14.42.50:723][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.10-14.42.50:723][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.10-14.42.51:889][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Content/' took 0.02s
+[2017.10.10-14.42.53:949][  0]SourceControl: Source control is disabled
+[2017.10.10-14.42.53:949][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Content/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.10-14.42.54:000][  0]LightingResults: New page: Lighting Build
+[2017.10.10-14.42.54:146][  0]MapCheck: New page: Map Check
+[2017.10.10-14.42.54:146][  0]LightingResults: New page: Lighting Build
+[2017.10.10-14.42.56:401][  0]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.10-14.42.56:403][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.10-14.42.56:450][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.10-14.42.56:573][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 122.875ms to complete.
+[2017.10.10-14.42.56:573][  0]LogFileHelpers: Loading map 'MainMenu' took 2.624
+[2017.10.10-14.42.56:973][  0]LogCollectionManager: Loaded 1 collections in 0.003359 seconds
+[2017.10.10-14.42.57:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Collections/' took 0.01s
+[2017.10.10-14.42.57:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Content/Developers/Nik/Collections/' took 0.01s
+[2017.10.10-14.42.57:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Content/Collections/' took 0.01s
+[2017.10.10-14.42.57:174][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000003 seconds
+[2017.10.10-14.42.57:174][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000000 seconds
+[2017.10.10-14.42.57:204][  0]LogContentBrowser: Native class hierarchy populated in 0.0295 seconds. Added 2386 classes and 500 folders.
+[2017.10.10-14.42.57:416][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2017.10.10-14.42.58:791][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.10-14.42.58:908][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.10.10-14.42.59:123][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2017.10.10-14.42.59:123][  0]LogLoad: (Engine Initialization) Total time: 115.93 seconds
+[2017.10.10-14.42.59:123][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.10-14.42.59:124][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.10-14.42.59:124][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.10-14.42.59:175][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.10-14.42.59:177][  0]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.10-14.42.59:181][  0]LogSlate: Took 0.000939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.10-14.42.59:241][  0]LogSlate: Took 0.048762 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.10-14.42.59:492][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.10-14.42.59:852][  2]LogRenderer: Reallocating scene render targets to support 836x352 Format 10 NumSamples 1 (Frame:1).
+[2017.10.10-14.42.59:878][  2]LogAssetRegistry: Asset discovery search completed in 89.9690 seconds
+[2017.10.10-14.42.59:883][  2]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000001 seconds (found 0 objects)
+[2017.10.10-14.42.59:883][  2]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000088 seconds (updated 0 objects)
+[2017.10.10-14.43.00:227][ 11]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.10-14.43.04:177][179]LogRenderer: Reallocating scene render targets to support 1208x496 Format 10 NumSamples 1 (Frame:129).
+[2017.10.10-14.43.04:544][183]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Content/' took 5.39s
+[2017.10.10-14.43.09:099][410]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.10-14.43.09:969][410]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.10-14.43.12:571][410]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-14.43.13:019][410]Cmd: MAP LOAD FILE="../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.10-14.43.13:020][410]LightingResults: New page: Lighting Build
+[2017.10.10-14.43.13:022][410]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2017.10.10-14.43.13:027][410]MapCheck: New page: Map Check
+[2017.10.10-14.43.13:028][410]LightingResults: New page: Lighting Build
+[2017.10.10-14.43.13:691][410]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.10-14.43.13:851][410]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.10-14.43.14:106][410]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 254.996ms to complete.
+[2017.10.10-14.43.14:138][410]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.120
+[2017.10.10-14.44.59:172][704]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-14.44.59:838][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.44.59:838][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-14.44.59:839][704]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 4:44:59 pm)
+[2017.10.10-14.44.59:839][704]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-14.45.00:006][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166924s)
+[2017.10.10-14.45.00:007][704]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-14.45.00:008][704]LogPlayLevel: PIE: World Init took: (0.001662s)
+[2017.10.10-14.45.00:008][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.169362s)
+[2017.10.10-14.45.00:071][704]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-14.45.00:093][704]LogInit: FAudioDevice initialized.
+[2017.10.10-14.45.00:149][704]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-14.45.00:207][704]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-03.45.00
+[2017.10.10-14.45.00:240][704]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-14.45.00:240][704]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-14.45.00:240][704]LogWorld: Bringing up level for play took: 0.089587
+[2017.10.10-14.45.00:328][704]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.10.10-14.45.00:330][704]LogBlueprintUserMessages: [FirstPersonExampleMap_C_1] i am player 1
+[2017.10.10-14.45.00:340][704]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.326
+[2017.10.10-14.45.00:340][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.45.02:647][812]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.45.02:711][812]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.45.07:385][ 29]LogEditorActor: Deleted Actor: player1_C
+[2017.10.10-14.45.07:411][ 29]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2017.10.10-14.45.31:175][305]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 113 classes and 0 folders.
+[2017.10.10-14.45.32:961][305]LogSlate: Took 0.042540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.10-14.45.34:059][306]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.10-14.46.03:319][873]BlueprintLog: New page: Compile player1
+[2017.10.10-14.46.49:595][874]LogHttp: Warning: 000002070D32A980: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.10-14.46.49:596][874]LogHttp: Warning: 000002070D32A980: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206997ebfe8 [can pipeline])
+[2017.10.10-14.46.49:596][874]LogHttp: Warning: 000002070D32A980: libcurl info message cache 1 (Connection 0 seems to be dead!)
+[2017.10.10-14.46.49:596][874]LogHttp: Warning: 000002070D32A980: libcurl info message cache 2 (Closing connection 0)
+[2017.10.10-14.46.49:596][874]LogHttp: Warning: 000002070D32A980: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.10.10-14.46.49:596][874]LogHttp: Warning: 000002070D32A980: libcurl info message cache 4 (  Trying 198.18.1.229...)
+[2017.10.10-14.46.49:596][874]LogHttp: Warning: 000002070D32A980: libcurl info message cache 5 (connect to 198.18.1.229 port 443 failed: Timed out)
+[2017.10.10-14.46.49:596][874]LogHttp: Warning: 000002070D32A980: libcurl info message cache 6 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.10.10-14.46.49:596][874]LogHttp: Warning: 000002070D32A980: libcurl info message cache 7 (Closing connection 1)
+[2017.10.10-14.46.57:452][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-14.46.57:503][ 47]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.46.57:504][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-14.46.57:504][ 47]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 4:46:57 pm)
+[2017.10.10-14.46.57:504][ 47]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-14.46.57:674][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169134s)
+[2017.10.10-14.46.57:675][ 47]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-14.46.57:676][ 47]LogPlayLevel: PIE: World Init took: (0.001625s)
+[2017.10.10-14.46.57:676][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.171448s)
+[2017.10.10-14.46.57:744][ 47]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-14.46.57:771][ 47]LogInit: FAudioDevice initialized.
+[2017.10.10-14.46.57:808][ 47]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-14.46.57:846][ 47]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-03.46.57
+[2017.10.10-14.46.57:876][ 47]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-14.46.57:876][ 47]LogWorld: Bringing up level for play took: 0.068054
+[2017.10.10-14.46.57:878][ 47]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2'!
+[2017.10.10-14.46.57:879][ 47]LogBlueprintUserMessages: [FirstPersonExampleMap_C_0] i am player 1
+[2017.10.10-14.46.57:879][ 47]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+	FirstPersonExampleMap_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap_C_0
+	Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap:01AA
+[2017.10.10-14.46.57:879][ 47]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1 from function: 'ExecuteUbergraph_FirstPersonExampleMap' from node: Bind Event to test event in graph: EventGraph in object: FirstPersonExampleMap with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+[2017.10.10-14.46.57:882][ 47]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-14.46.57:882][ 47]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.868
+[2017.10.10-14.46.57:883][ 47]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.47.00:645][143]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.47.00:700][143]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.47.34:008][587]BlueprintLog: New page: Compile player1
+[2017.10.10-14.48.25:180][647]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-14.48.25:217][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.48.25:217][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-14.48.25:217][647]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 4:48:25 pm)
+[2017.10.10-14.48.25:217][647]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-14.48.25:462][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.244399s)
+[2017.10.10-14.48.25:463][647]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-14.48.25:463][647]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2017.10.10-14.48.25:463][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.245799s)
+[2017.10.10-14.48.25:523][647]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-14.48.25:535][647]LogInit: FAudioDevice initialized.
+[2017.10.10-14.48.25:578][647]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-14.48.25:616][647]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-03.48.25
+[2017.10.10-14.48.25:645][647]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-14.48.25:645][647]LogWorld: Bringing up level for play took: 0.066519
+[2017.10.10-14.48.25:647][647]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2'!
+[2017.10.10-14.48.25:648][647]LogBlueprintUserMessages: [FirstPersonExampleMap_C_2] i am player 1
+[2017.10.10-14.48.25:648][647]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+	FirstPersonExampleMap_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap_C_2
+	Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap:01AA
+[2017.10.10-14.48.25:648][647]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1 from function: 'ExecuteUbergraph_FirstPersonExampleMap' from node: Bind Event to test event in graph: EventGraph in object: FirstPersonExampleMap with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+[2017.10.10-14.48.25:650][647]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-14.48.25:650][647]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.636
+[2017.10.10-14.48.25:651][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.48.28:785][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.48.28:849][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.48.33:942][970]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-14.48.33:982][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.48.33:983][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-14.48.33:983][970]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 4:48:33 pm)
+[2017.10.10-14.48.33:983][970]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-14.48.34:176][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.193027s)
+[2017.10.10-14.48.34:185][970]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-14.48.34:186][970]LogPlayLevel: PIE: World Init took: (0.010107s)
+[2017.10.10-14.48.34:187][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.203771s)
+[2017.10.10-14.48.34:254][970]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-14.48.34:275][970]LogInit: FAudioDevice initialized.
+[2017.10.10-14.48.34:318][970]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-14.48.34:356][970]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-03.48.34
+[2017.10.10-14.48.34:380][970]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-14.48.34:380][970]LogWorld: Bringing up level for play took: 0.061459
+[2017.10.10-14.48.34:383][970]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2'!
+[2017.10.10-14.48.34:384][970]LogBlueprintUserMessages: [FirstPersonExampleMap_C_2] i am player 1
+[2017.10.10-14.48.34:384][970]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+	FirstPersonExampleMap_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap_C_2
+	Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap:01AA
+[2017.10.10-14.48.34:384][970]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1 from function: 'ExecuteUbergraph_FirstPersonExampleMap' from node: Bind Event to test event in graph: EventGraph in object: FirstPersonExampleMap with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+[2017.10.10-14.48.34:386][970]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-14.48.34:387][970]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.373
+[2017.10.10-14.48.34:387][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.54.20:669][173]LogHttp: Warning: 00000207065A1F00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.10-14.54.20:669][173]LogHttp: Warning: 00000207065A1F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206997ebfb8 [can pipeline])
+[2017.10.10-14.54.20:669][173]LogHttp: Warning: 00000207065A1F00: libcurl info message cache 1 (Connection 3 seems to be dead!)
+[2017.10.10-14.54.20:669][173]LogHttp: Warning: 00000207065A1F00: libcurl info message cache 2 (Closing connection 3)
+[2017.10.10-14.54.20:670][173]LogHttp: Warning: 00000207065A1F00: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.10.10-14.54.20:670][173]LogHttp: Warning: 00000207065A1F00: libcurl info message cache 4 (  Trying 198.18.1.229...)
+[2017.10.10-14.54.20:670][173]LogHttp: Warning: 00000207065A1F00: libcurl info message cache 5 (connect to 198.18.1.229 port 443 failed: Timed out)
+[2017.10.10-14.54.20:670][173]LogHttp: Warning: 00000207065A1F00: libcurl info message cache 6 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.10.10-14.54.20:670][173]LogHttp: Warning: 00000207065A1F00: libcurl info message cache 7 (Closing connection 4)
+[2017.10.10-14.56.15:731][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.56.15:866][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.57.40:436][753]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-14.57.40:480][753]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.57.40:480][753]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.10-14.57.40:520][753]LogPlayLevel: [PlayLevel] Compiling NewPlayerController2 before play...
+[2017.10.10-14.57.40:588][753]LogPlayLevel: [PlayLevel]   Compiling player1 as a dependent...
+[2017.10.10-14.57.40:700][753]LogPlayLevel: [PlayLevel]   Compiling player2 as a dependent...
+[2017.10.10-14.57.41:697][753]LogPlayLevel: PlayLevel: Blueprint regeneration took 1216 ms (3 blueprints)
+[2017.10.10-14.57.41:697][753]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 4:57:41 pm)
+[2017.10.10-14.57.41:697][753]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-14.57.41:882][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.184674s)
+[2017.10.10-14.57.41:883][753]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-14.57.41:884][753]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2017.10.10-14.57.41:884][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.186985s)
+[2017.10.10-14.57.41:940][753]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-14.57.41:960][753]LogInit: FAudioDevice initialized.
+[2017.10.10-14.57.42:000][753]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-14.57.42:055][753]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-03.57.42
+[2017.10.10-14.57.42:086][753]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-14.57.42:086][753]LogWorld: Bringing up level for play took: 0.085171
+[2017.10.10-14.57.42:089][753]LogBlueprintUserMessages: [FirstPersonExampleMap_C_2] i am player 1
+[2017.10.10-14.57.42:089][753]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+	FirstPersonExampleMap_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap_C_2
+	Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap:01AA
+[2017.10.10-14.57.42:089][753]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1 from function: 'ExecuteUbergraph_FirstPersonExampleMap' from node: Bind Event to test event in graph: EventGraph in object: FirstPersonExampleMap with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+[2017.10.10-14.57.42:096][753]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-14.57.42:097][753]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.083
+[2017.10.10-14.57.42:098][753]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.57.45:773][916]LogBlueprintUserMessages: [plane205] east
+[2017.10.10-14.57.45:877][921]LogBlueprintUserMessages: [plane24] west
+[2017.10.10-14.57.45:942][924]LogBlueprintUserMessages: [plane24] up
+[2017.10.10-14.57.46:535][950]LogBlueprintUserMessages: [plane24] east
+[2017.10.10-14.57.46:628][954]LogBlueprintUserMessages: [plane23] west
+[2017.10.10-14.57.46:695][957]LogBlueprintUserMessages: [plane23] up
+[2017.10.10-14.57.47:976][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-14.57.48:036][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.00.43:027][887]LogEditorViewport: Clicking on Actor (LMB): exploiveBomb_C (exploiveBomb)
+[2017.10.10-15.00.52:268][329]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2017.10.10-15.01.54:831][ 75]LogBlueprint: Warning: [exploiveBomb] 'player alive' variable not found. Base class was probably changed.
+[2017.10.10-15.01.54:831][ 75]LogBlueprint: Warning: [exploiveBomb] 'player alive' variable not found. Base class was probably changed.
+[2017.10.10-15.01.54:831][ 75]LogBlueprint: Warning: [exploiveBomb] 'player alive' variable not found. Base class was probably changed.
+[2017.10.10-15.01.54:831][ 75]LogBlueprint: Warning: [exploiveBomb] 'player alive' variable not found. Base class was probably changed.
+[2017.10.10-15.02.11:206][775]BlueprintLog: New page: Compile player1
+[2017.10.10-15.02.11:525][775]LogBlueprint: Warning: [Compiler exploiveBomb] Could not find a variable named "player alive" in 'player2_C'.
+Make sure 'player2_C' has been compiled for  Set player alive
+[2017.10.10-15.02.11:612][775]LogBlueprint: Error: [Compiler exploiveBomb] The property associated with  Player Alive  could not be found
+[2017.10.10-15.02.11:696][775]LogBlueprint: Warning: [Compiler exploiveBomb] [1268.50] Compile of exploiveBomb failed. 1 Fatal Issue(s) 1 Warning(s) [in 439 ms] (/Game/exploiveBomb.exploiveBomb)
+[2017.10.10-15.02.55:423][776]LogSavePackage: Save=3415.45ms
+[2017.10.10-15.02.55:426][776]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/FirstPersonExampleMap_Auto155C34D2643162C729004C9901CABF159.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2017.10.10-15.02.55:434][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2017.10.10-15.02.55:444][776]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 3.535
+[2017.10.10-15.02.55:444][776]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.535
+[2017.10.10-15.02.55:449][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/player1] ([1] browsable assets)...
+[2017.10.10-15.02.55:449][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/player1]
+[2017.10.10-15.02.55:769][776]LogSavePackage: Save=301.54ms
+[2017.10.10-15.02.55:769][776]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/player1_Auto12A32B26F4094B4DD02C947BD9C90E4D9.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player1_Auto1.uasset'
+[2017.10.10-15.02.55:776][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player1_Auto1.uasset
+[2017.10.10-15.02.55:777][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewPlayerController2] ([1] browsable assets)...
+[2017.10.10-15.02.55:777][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewPlayerController2]
+[2017.10.10-15.02.55:902][776]LogSavePackage: Save=106.50ms
+[2017.10.10-15.02.55:904][776]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/NewPlayerController2_Auto1C2094314483B8F739FE585AEA8E68C6C.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/Blueprints/NewPlayerController2_Auto1.uasset'
+[2017.10.10-15.02.55:910][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/Blueprints/NewPlayerController2_Auto1.uasset
+[2017.10.10-15.02.55:911][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/exploiveBomb] ([1] browsable assets)...
+[2017.10.10-15.02.55:937][776]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/exploiveBomb.exploiveBomb]
+[2017.10.10-15.02.55:937][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/exploiveBomb]
+[2017.10.10-15.02.56:039][776]LogSavePackage: Save=79.80ms
+[2017.10.10-15.02.56:039][776]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/exploiveBomb_Auto194506C6449CAAEAAD33A30875687110F.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/exploiveBomb_Auto1.uasset'
+[2017.10.10-15.02.56:047][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/exploiveBomb_Auto1.uasset
+[2017.10.10-15.02.56:047][776]LogFileHelpers: Auto-saving content packages took 0.600
+[2017.10.10-15.03.25:129][864]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.10.10-15.03.42:562][475]BlueprintLog: New page: Compile player2
+[2017.10.10-15.05.16:319][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-15.05.16:375][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.05.16:375][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-15.05.16:375][ 68]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 5:05:16 pm)
+[2017.10.10-15.05.16:375][ 68]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-15.05.16:491][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115365s)
+[2017.10.10-15.05.16:492][ 68]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-15.05.16:492][ 68]LogPlayLevel: PIE: World Init took: (0.001533s)
+[2017.10.10-15.05.16:493][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.117647s)
+[2017.10.10-15.05.16:549][ 68]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-15.05.16:559][ 68]LogInit: FAudioDevice initialized.
+[2017.10.10-15.05.16:597][ 68]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-15.05.16:625][ 68]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-04.05.16
+[2017.10.10-15.05.16:645][ 68]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-15.05.16:645][ 68]LogWorld: Bringing up level for play took: 0.047747
+[2017.10.10-15.05.16:648][ 68]LogBlueprintUserMessages: [FirstPersonExampleMap_C_2] i am player 1
+[2017.10.10-15.05.16:648][ 68]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+	FirstPersonExampleMap_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap_C_2
+	Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap:01AA
+[2017.10.10-15.05.16:648][ 68]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1 from function: 'ExecuteUbergraph_FirstPersonExampleMap' from node: Bind Event to test event in graph: EventGraph in object: FirstPersonExampleMap with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+[2017.10.10-15.05.16:652][ 68]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-15.05.16:652][ 68]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.362
+[2017.10.10-15.05.16:652][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.05.17:923][120]LogBlueprintUserMessages: [exploiveBomb_C_0] player 1 dead
+[2017.10.10-15.05.17:923][120]LogBlueprintUserMessages: [exploiveBomb_C_0] player 1 dead
+[2017.10.10-15.05.17:923][120]LogBlueprintUserMessages: [exploiveBomb_C_0] player 1 dead
+[2017.10.10-15.05.21:682][301]LogBlueprintUserMessages: [player1_C_0] true
+[2017.10.10-15.05.21:682][301]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'bombs' of length 1 in '/Game/FirstPersonBP/Blueprints/player1.player1_C'!
+[2017.10.10-15.05.21:684][301]LogBlueprintUserMessages: [exploiveBomb_C_0] same
+[2017.10.10-15.05.23:057][368]LogBlueprintUserMessages: [plane99] east
+[2017.10.10-15.05.23:107][370]LogBlueprintUserMessages: [plane99] up
+[2017.10.10-15.05.23:828][406]LogBlueprintUserMessages: [plane100] east
+[2017.10.10-15.05.23:874][408]LogBlueprintUserMessages: [plane100] up
+[2017.10.10-15.05.24:578][441]LogBlueprintUserMessages: [plane101] east
+[2017.10.10-15.05.25:735][498]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-15.05.26:101][516]LogBlueprintUserMessages: [plane205] east
+[2017.10.10-15.05.26:201][521]LogBlueprintUserMessages: [plane24] west
+[2017.10.10-15.05.26:260][524]LogBlueprintUserMessages: [plane24] up
+[2017.10.10-15.05.26:880][554]LogBlueprintUserMessages: [plane24] east
+[2017.10.10-15.05.26:962][558]LogBlueprintUserMessages: [plane23] west
+[2017.10.10-15.05.27:020][561]LogBlueprintUserMessages: [plane23] up
+[2017.10.10-15.05.27:616][590]LogBlueprintUserMessages: [plane23] east
+[2017.10.10-15.05.27:728][595]LogBlueprintUserMessages: [plane22] west
+[2017.10.10-15.05.27:771][597]LogBlueprintUserMessages: [plane22] up
+[2017.10.10-15.05.28:381][627]LogBlueprintUserMessages: [plane22] east
+[2017.10.10-15.05.28:463][631]LogBlueprintUserMessages: [plane25] west
+[2017.10.10-15.05.29:869][702]LogBlueprintUserMessages: [player1_C_0] true
+[2017.10.10-15.05.29:869][702]LogScript: Warning: Attempted to access exploiveBomb_C_0 via property K2Node_DynamicCast_AsExploive_Bomb, but exploiveBomb_C_0 is pending kill
+	player1_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.player1_C_0
+	Function /Game/FirstPersonBP/Blueprints/player1.player1_C:Trigger Bombs:0174
+[2017.10.10-15.05.29:869][702]PIE: Error: Blueprint Runtime Error: Attempted to access exploiveBomb_C_0 via property K2Node_DynamicCast_AsExploive_Bomb, but exploiveBomb_C_0 is pending kill from function: 'Trigger Bombs' from node: Set expoldeded in graph: Trigger Bombs in object: player1 with description: Attempted to access exploiveBomb_C_0 via property K2Node_DynamicCast_AsExploive_Bomb, but exploiveBomb_C_0 is pending kill
+[2017.10.10-15.05.29:869][702]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'bombs' of length 1 in '/Game/FirstPersonBP/Blueprints/player1.player1_C'!
+[2017.10.10-15.05.30:004][709]LogBlueprintUserMessages: [plane101] up
+[2017.10.10-15.05.30:773][747]LogBlueprintUserMessages: [plane102] east
+[2017.10.10-15.05.30:818][749]LogBlueprintUserMessages: [plane102] up
+[2017.10.10-15.05.31:514][784]LogBlueprintUserMessages: [plane10] east
+[2017.10.10-15.05.31:568][787]LogBlueprintUserMessages: [plane10] up
+[2017.10.10-15.05.32:269][821]LogBlueprintUserMessages: [plane11] east
+[2017.10.10-15.05.32:325][824]LogBlueprintUserMessages: [plane11] up
+[2017.10.10-15.05.33:022][857]LogBlueprintUserMessages: [plane12] east
+[2017.10.10-15.05.33:069][859]LogBlueprintUserMessages: [plane12] up
+[2017.10.10-15.05.33:786][895]LogBlueprintUserMessages: [plane4] east
+[2017.10.10-15.05.33:822][897]LogBlueprintUserMessages: [plane4] up
+[2017.10.10-15.05.34:528][932]LogBlueprintUserMessages: [plane5] east
+[2017.10.10-15.05.34:570][934]LogBlueprintUserMessages: [plane5] up
+[2017.10.10-15.05.35:889][  0]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-15.05.36:291][ 20]LogBlueprintUserMessages: [plane25] up
+[2017.10.10-15.05.36:924][ 52]LogBlueprintUserMessages: [plane25] east
+[2017.10.10-15.05.37:021][ 57]LogBlueprintUserMessages: [plane15] west
+[2017.10.10-15.05.37:076][ 59]LogBlueprintUserMessages: [plane15] up
+[2017.10.10-15.05.37:672][ 89]LogBlueprintUserMessages: [plane15] east
+[2017.10.10-15.05.37:774][ 94]LogBlueprintUserMessages: [plane14] west
+[2017.10.10-15.05.37:837][ 97]LogBlueprintUserMessages: [plane14] up
+[2017.10.10-15.05.38:414][126]LogBlueprintUserMessages: [plane14] east
+[2017.10.10-15.05.38:511][131]LogBlueprintUserMessages: [plane13] west
+[2017.10.10-15.05.40:257][219]LogBlueprintUserMessages: [player1_C_0] true
+[2017.10.10-15.05.40:257][219]LogScript: Warning: Attempted to access exploiveBomb_C_0 via property K2Node_DynamicCast_AsExploive_Bomb, but exploiveBomb_C_0 is pending kill
+	player1_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.player1_C_0
+	Function /Game/FirstPersonBP/Blueprints/player1.player1_C:Trigger Bombs:0174
+[2017.10.10-15.05.40:257][219]PIE: Error: Blueprint Runtime Error: Attempted to access exploiveBomb_C_0 via property K2Node_DynamicCast_AsExploive_Bomb, but exploiveBomb_C_0 is pending kill from function: 'Trigger Bombs' from node: Set expoldeded in graph: Trigger Bombs in object: player1 with description: Attempted to access exploiveBomb_C_0 via property K2Node_DynamicCast_AsExploive_Bomb, but exploiveBomb_C_0 is pending kill
+[2017.10.10-15.05.40:257][219]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'bombs' of length 1 in '/Game/FirstPersonBP/Blueprints/player1.player1_C'!
+[2017.10.10-15.05.41:991][307]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-15.05.42:494][332]LogBlueprintUserMessages: [plane13] up
+[2017.10.10-15.05.43:136][364]LogBlueprintUserMessages: [plane13] east
+[2017.10.10-15.05.43:215][368]LogBlueprintUserMessages: [plane6] west
+[2017.10.10-15.05.43:295][372]LogBlueprintUserMessages: [plane6] up
+[2017.10.10-15.05.43:885][401]LogBlueprintUserMessages: [plane6] east
+[2017.10.10-15.05.43:966][405]LogBlueprintUserMessages: [plane5] west
+[2017.10.10-15.05.44:962][454]LogBlueprintUserMessages: [exploiveBomb_C_1] player 1 dead
+[2017.10.10-15.05.44:962][454]LogBlueprintUserMessages: [exploiveBomb_C_1] player 1 dead
+[2017.10.10-15.05.44:962][454]LogBlueprintUserMessages: [exploiveBomb_C_1] player 1 dead
+[2017.10.10-15.05.47:168][564]LogBlueprintUserMessages: [player1_C_0] true
+[2017.10.10-15.05.47:168][564]LogScript: Warning: Attempted to access exploiveBomb_C_0 via property K2Node_DynamicCast_AsExploive_Bomb, but exploiveBomb_C_0 is pending kill
+	player1_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.player1_C_0
+	Function /Game/FirstPersonBP/Blueprints/player1.player1_C:Trigger Bombs:0174
+[2017.10.10-15.05.47:169][564]PIE: Error: Blueprint Runtime Error: Attempted to access exploiveBomb_C_0 via property K2Node_DynamicCast_AsExploive_Bomb, but exploiveBomb_C_0 is pending kill from function: 'Trigger Bombs' from node: Set expoldeded in graph: Trigger Bombs in object: player1 with description: Attempted to access exploiveBomb_C_0 via property K2Node_DynamicCast_AsExploive_Bomb, but exploiveBomb_C_0 is pending kill
+[2017.10.10-15.05.47:169][564]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'bombs' of length 2 in '/Game/FirstPersonBP/Blueprints/player1.player1_C'!
+[2017.10.10-15.05.47:169][564]LogBlueprintUserMessages: [exploiveBomb_C_1] same
+[2017.10.10-15.07.23:812][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.07.23:954][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.08.15:802][431]BlueprintLog: New page: Compile NewPlayerController2
+[2017.10.10-15.08.42:228][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_Walls_White)
+[2017.10.10-15.09.05:505][458]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-15.09.05:558][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.09.05:558][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-15.09.05:559][458]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 5:09:05 pm)
+[2017.10.10-15.09.05:559][458]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-15.09.05:683][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124136s)
+[2017.10.10-15.09.05:684][458]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-15.09.05:684][458]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2017.10.10-15.09.05:685][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.126220s)
+[2017.10.10-15.09.05:736][458]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-15.09.05:750][458]LogInit: FAudioDevice initialized.
+[2017.10.10-15.09.05:785][458]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-15.09.05:818][458]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-04.09.05
+[2017.10.10-15.09.05:841][458]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-15.09.05:841][458]LogWorld: Bringing up level for play took: 0.055371
+[2017.10.10-15.09.05:843][458]LogBlueprintUserMessages: [FirstPersonExampleMap_C_2] i am player 1
+[2017.10.10-15.09.05:844][458]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+	FirstPersonExampleMap_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap_C_2
+	Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap:01AA
+[2017.10.10-15.09.05:844][458]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1 from function: 'ExecuteUbergraph_FirstPersonExampleMap' from node: Bind Event to test event in graph: EventGraph in object: FirstPersonExampleMap with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+[2017.10.10-15.09.05:846][458]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-15.09.05:846][458]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.832
+[2017.10.10-15.09.05:847][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.09.06:886][505]LogBlueprintUserMessages: [plane205] east
+[2017.10.10-15.09.06:981][509]LogBlueprintUserMessages: [plane24] west
+[2017.10.10-15.09.07:047][512]LogBlueprintUserMessages: [plane24] up
+[2017.10.10-15.09.07:636][540]LogBlueprintUserMessages: [plane24] east
+[2017.10.10-15.09.07:737][545]LogBlueprintUserMessages: [plane23] west
+[2017.10.10-15.09.07:800][548]LogBlueprintUserMessages: [plane23] up
+[2017.10.10-15.09.08:403][576]LogBlueprintUserMessages: [plane23] east
+[2017.10.10-15.09.08:501][581]LogBlueprintUserMessages: [plane22] west
+[2017.10.10-15.09.08:561][584]LogBlueprintUserMessages: [plane22] up
+[2017.10.10-15.09.09:154][612]LogBlueprintUserMessages: [plane22] east
+[2017.10.10-15.09.09:254][617]LogBlueprintUserMessages: [plane25] west
+[2017.10.10-15.09.10:125][659]LogBlueprintUserMessages: [player1_C_0] fasle
+[2017.10.10-15.09.10:125][659]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_22
+	NewPlayerController2_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewPlayerController2_C_0
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2:00D6
+[2017.10.10-15.09.10:125][659]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_22 from function: 'ExecuteUbergraph_NewPlayerController2' from node: Branch in graph: EventGraph in object: NewPlayerController2 with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_22
+[2017.10.10-15.09.10:686][686]LogBlueprintUserMessages: [plane99] east
+[2017.10.10-15.09.10:733][688]LogBlueprintUserMessages: [plane99] up
+[2017.10.10-15.09.11:444][722]LogBlueprintUserMessages: [plane100] east
+[2017.10.10-15.09.11:487][724]LogBlueprintUserMessages: [plane100] up
+[2017.10.10-15.09.12:189][757]LogBlueprintUserMessages: [plane101] east
+[2017.10.10-15.09.12:227][759]LogBlueprintUserMessages: [plane101] up
+[2017.10.10-15.09.12:973][795]LogBlueprintUserMessages: [plane102] east
+[2017.10.10-15.09.13:021][797]LogBlueprintUserMessages: [plane102] up
+[2017.10.10-15.09.13:726][831]LogBlueprintUserMessages: [plane10] east
+[2017.10.10-15.09.13:771][833]LogBlueprintUserMessages: [plane10] up
+[2017.10.10-15.09.14:486][867]LogBlueprintUserMessages: [plane11] east
+[2017.10.10-15.09.15:298][906]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-15.09.15:298][906]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_12
+	NewPlayerController2_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewPlayerController2_C_0
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2:00F5
+[2017.10.10-15.09.15:298][906]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_12 from function: 'ExecuteUbergraph_NewPlayerController2' from node: Branch in graph: EventGraph in object: NewPlayerController2 with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_12
+[2017.10.10-15.09.15:588][920]LogBlueprintUserMessages: [plane25] up
+[2017.10.10-15.09.16:258][952]LogBlueprintUserMessages: [plane25] east
+[2017.10.10-15.09.16:355][956]LogBlueprintUserMessages: [plane15] west
+[2017.10.10-15.09.16:395][958]LogBlueprintUserMessages: [plane15] up
+[2017.10.10-15.09.16:992][987]LogBlueprintUserMessages: [plane15] east
+[2017.10.10-15.09.17:096][992]LogBlueprintUserMessages: [plane14] west
+[2017.10.10-15.09.17:142][994]LogBlueprintUserMessages: [plane14] up
+[2017.10.10-15.09.17:758][ 24]LogBlueprintUserMessages: [plane14] east
+[2017.10.10-15.09.17:858][ 29]LogBlueprintUserMessages: [plane13] west
+[2017.10.10-15.09.17:921][ 32]LogBlueprintUserMessages: [plane13] up
+[2017.10.10-15.09.18:516][ 60]LogBlueprintUserMessages: [plane13] east
+[2017.10.10-15.09.18:596][ 64]LogBlueprintUserMessages: [plane6] west
+[2017.10.10-15.09.18:663][ 67]LogBlueprintUserMessages: [plane6] up
+[2017.10.10-15.09.19:274][ 96]LogBlueprintUserMessages: [plane6] east
+[2017.10.10-15.09.19:358][100]LogBlueprintUserMessages: [plane5] west
+[2017.10.10-15.09.20:044][133]LogBlueprintUserMessages: [player1_C_0] fasle
+[2017.10.10-15.09.20:394][150]LogBlueprintUserMessages: [plane11] up
+[2017.10.10-15.09.21:167][187]LogBlueprintUserMessages: [plane12] east
+[2017.10.10-15.09.21:211][189]LogBlueprintUserMessages: [plane12] up
+[2017.10.10-15.09.21:930][224]LogBlueprintUserMessages: [plane4] east
+[2017.10.10-15.09.21:977][226]LogBlueprintUserMessages: [plane4] up
+[2017.10.10-15.09.22:674][259]LogBlueprintUserMessages: [plane5] east
+[2017.10.10-15.09.22:717][261]LogBlueprintUserMessages: [plane5] up
+[2017.10.10-15.09.23:601][304]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-15.09.23:601][304]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_12
+	NewPlayerController2_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewPlayerController2_C_0
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2:00F5
+[2017.10.10-15.09.23:601][304]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_12 from function: 'ExecuteUbergraph_NewPlayerController2' from node: Branch in graph: EventGraph in object: NewPlayerController2 with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_12
+[2017.10.10-15.09.24:366][341]LogBlueprintUserMessages: [plane5] up
+[2017.10.10-15.09.25:266][384]LogBlueprintUserMessages: [exploiveBomb_C_0] player 1 dead
+[2017.10.10-15.09.25:266][384]LogBlueprintUserMessages: [exploiveBomb_C_0] player 1 dead
+[2017.10.10-15.09.25:266][384]LogBlueprintUserMessages: [exploiveBomb_C_0] player 1 dead
+[2017.10.10-15.09.26:498][443]LogBlueprintUserMessages: [player1_C_0] true
+[2017.10.10-15.09.26:498][443]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'bombs' of length 1 in '/Game/FirstPersonBP/Blueprints/player1.player1_C'!
+[2017.10.10-15.09.26:499][443]LogBlueprintUserMessages: [exploiveBomb_C_0] same
+[2017.10.10-15.09.37:930][854]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-15.09.37:930][854]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_12
+	NewPlayerController2_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewPlayerController2_C_0
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2:00F5
+[2017.10.10-15.09.37:930][854]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_12 from function: 'ExecuteUbergraph_NewPlayerController2' from node: Branch in graph: EventGraph in object: NewPlayerController2 with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_12
+[2017.10.10-15.09.37:930][854]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 267
+[2017.10.10-15.09.37:930][854]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2
+
+[2017.10.10-15.09.53:777][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.09.53:867][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.10.05:490][371]LogEditorTransaction: Undo Delete current selection
+[2017.10.10-15.13.49:680][202]BlueprintLog: New page: Compile NewPlayerController2
+[2017.10.10-15.13.54:000][338]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-15.13.54:057][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.13.54:057][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-15.13.54:057][338]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 5:13:54 pm)
+[2017.10.10-15.13.54:057][338]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-15.13.54:161][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103467s)
+[2017.10.10-15.13.54:162][338]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-15.13.54:163][338]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2017.10.10-15.13.54:163][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.106194s)
+[2017.10.10-15.13.54:217][338]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-15.13.54:233][338]LogInit: FAudioDevice initialized.
+[2017.10.10-15.13.54:270][338]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-15.13.54:298][338]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-04.13.54
+[2017.10.10-15.13.54:316][338]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-15.13.54:317][338]LogWorld: Bringing up level for play took: 0.046672
+[2017.10.10-15.13.54:319][338]LogBlueprintUserMessages: [FirstPersonExampleMap_C_2] i am player 1
+[2017.10.10-15.13.54:319][338]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+	FirstPersonExampleMap_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap_C_2
+	Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap:01AA
+[2017.10.10-15.13.54:320][338]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1 from function: 'ExecuteUbergraph_FirstPersonExampleMap' from node: Bind Event to test event in graph: EventGraph in object: FirstPersonExampleMap with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_1
+[2017.10.10-15.13.54:322][338]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-15.13.54:322][338]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.692
+[2017.10.10-15.13.54:322][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.13.56:276][429]LogBlueprintUserMessages: [player1_C_0] fasle
+[2017.10.10-15.13.56:276][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2'!
+[2017.10.10-15.13.56:276][429]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	NewPlayerController2_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewPlayerController2_C_0
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2:0137
+[2017.10.10-15.13.56:276][429]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_NewPlayerController2' from node: Branch in graph: EventGraph in object: NewPlayerController2 with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.10-15.13.56:276][429]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 364
+[2017.10.10-15.13.56:276][429]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2
+
+[2017.10.10-15.14.05:850][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.14.05:937][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.14.20:163][ 47]BlueprintLog: New page: Compile player1
+[2017.10.10-15.16.17:931][494]LogEditorTransaction: Undo Create Pin Link
+[2017.10.10-15.16.18:217][501]LogEditorTransaction: Undo Delete current selection
+[2017.10.10-15.16.53:283][ 41]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2017.10.10-15.17.20:753][ 98]LogSavePackage: Save=3031.47ms
+[2017.10.10-15.17.20:753][ 98]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/FirstPersonExampleMap_Auto263E5B73B4F507B74F0E36E8B9DEAC46D.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2017.10.10-15.17.20:761][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap
+[2017.10.10-15.17.20:768][ 98]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 3.131
+[2017.10.10-15.17.20:768][ 98]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.131
+[2017.10.10-15.17.20:774][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/player1] ([1] browsable assets)...
+[2017.10.10-15.17.20:774][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/player1]
+[2017.10.10-15.17.21:120][ 98]LogSavePackage: Save=306.20ms
+[2017.10.10-15.17.21:120][ 98]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/player1_Auto259B465DF4EDA1C791DAD6FA0C124C28F.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player1_Auto2.uasset'
+[2017.10.10-15.17.21:126][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player1_Auto2.uasset
+[2017.10.10-15.17.21:127][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewPlayerController2] ([1] browsable assets)...
+[2017.10.10-15.17.21:127][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewPlayerController2]
+[2017.10.10-15.17.21:260][ 98]LogSavePackage: Save=113.36ms
+[2017.10.10-15.17.21:260][ 98]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/NewPlayerController2_Auto26F2E3BED4AD2BE327B049382E480F9A7.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/Blueprints/NewPlayerController2_Auto2.uasset'
+[2017.10.10-15.17.21:264][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/Blueprints/NewPlayerController2_Auto2.uasset
+[2017.10.10-15.17.21:265][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/player2] ([1] browsable assets)...
+[2017.10.10-15.17.21:265][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/player2]
+[2017.10.10-15.17.21:556][ 98]LogSavePackage: Save=266.01ms
+[2017.10.10-15.17.21:556][ 98]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/player2_Auto2FD0B850247FC35FD8F6A8E9EAE31418B.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player2_Auto2.uasset'
+[2017.10.10-15.17.21:560][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player2_Auto2.uasset
+[2017.10.10-15.17.21:560][ 98]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/exploiveBomb] ([1] browsable assets)...
+[2017.10.10-15.17.21:588][ 98]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/exploiveBomb.exploiveBomb]
+[2017.10.10-15.17.21:589][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/exploiveBomb]
+[2017.10.10-15.17.21:693][ 98]LogSavePackage: Save=84.85ms
+[2017.10.10-15.17.21:693][ 98]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/exploiveBomb_Auto241EEFA34488F5037EE76EAAD0D89256E.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/exploiveBomb_Auto2.uasset'
+[2017.10.10-15.17.21:699][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/exploiveBomb_Auto2.uasset
+[2017.10.10-15.17.21:699][ 98]LogFileHelpers: Auto-saving content packages took 0.927
+[2017.10.10-15.18.22:000][957]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-15.18.22:069][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.18.22:069][957]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.10-15.18.22:130][957]LogPlayLevel: [PlayLevel] Compiling Bomb_New_Blueprint before play...
+[2017.10.10-15.18.22:164][957]LogPlayLevel: [PlayLevel]   Compiling exploiveBomb as a dependent...
+[2017.10.10-15.18.22:173][957]LogPlayLevel: [PlayLevel]   Compiling plane as a dependent...
+[2017.10.10-15.18.22:215][957]LogPlayLevel: [PlayLevel]   Compiling NewPlayerController2 as a dependent...
+[2017.10.10-15.18.22:257][957]LogPlayLevel: [PlayLevel]   Compiling player2 as a dependent...
+[2017.10.10-15.18.22:316][957]LogPlayLevel: [PlayLevel]   Compiling UI as a dependent...
+[2017.10.10-15.19.05:545][957]LogPlayLevel: PlayLevel: Blueprint regeneration took 43475 ms (6 blueprints)
+[2017.10.10-15.19.05:545][957]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 5:19:05 pm)
+[2017.10.10-15.19.05:545][957]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-15.19.05:728][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.182455s)
+[2017.10.10-15.19.05:731][957]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-15.19.05:731][957]LogPlayLevel: PIE: World Init took: (0.002178s)
+[2017.10.10-15.19.05:732][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.186662s)
+[2017.10.10-15.19.05:836][957]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-15.19.05:875][957]LogInit: FAudioDevice initialized.
+[2017.10.10-15.19.05:929][957]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-15.19.06:010][957]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 3) at 2017.10.11-04.19.06
+[2017.10.10-15.19.06:043][957]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-15.19.06:043][957]LogWorld: Bringing up level for play took: 0.111556
+[2017.10.10-15.19.06:046][957]LogBlueprintUserMessages: [FirstPersonExampleMap_C_0] i am player 1
+[2017.10.10-15.19.06:050][957]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-15.19.06:050][957]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 43.036
+[2017.10.10-15.19.06:051][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.21.20:270][361]LogHttp: Warning: 000002074FE0C400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.10-15.21.20:270][361]LogHttp: Warning: 000002074FE0C400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206997ebfe8 [can pipeline])
+[2017.10.10-15.21.20:270][361]LogHttp: Warning: 000002074FE0C400: libcurl info message cache 1 (Connection 18 seems to be dead!)
+[2017.10.10-15.21.20:270][361]LogHttp: Warning: 000002074FE0C400: libcurl info message cache 2 (Closing connection 18)
+[2017.10.10-15.21.20:270][361]LogHttp: Warning: 000002074FE0C400: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.10.10-15.21.20:270][361]LogHttp: Warning: 000002074FE0C400: libcurl info message cache 4 (  Trying 198.18.1.229...)
+[2017.10.10-15.21.20:270][361]LogHttp: Warning: 000002074FE0C400: libcurl info message cache 5 (connect to 198.18.1.229 port 443 failed: Timed out)
+[2017.10.10-15.21.20:270][361]LogHttp: Warning: 000002074FE0C400: libcurl info message cache 6 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.10.10-15.21.20:270][361]LogHttp: Warning: 000002074FE0C400: libcurl info message cache 7 (Closing connection 19)
+[2017.10.10-15.23.41:621][785]LogHttp: Warning: 000002074516EE00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.10-15.23.41:621][785]LogHttp: Warning: 000002074516EE00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.10.10-15.23.41:621][785]LogHttp: Warning: 000002074516EE00: libcurl info message cache 1 (  Trying 198.18.1.229...)
+[2017.10.10-15.23.41:621][785]LogHttp: Warning: 000002074516EE00: libcurl info message cache 2 (connect to 198.18.1.229 port 443 failed: Timed out)
+[2017.10.10-15.23.41:621][785]LogHttp: Warning: 000002074516EE00: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.10.10-15.23.41:621][785]LogHttp: Warning: 000002074516EE00: libcurl info message cache 4 (Closing connection 20)
+[2017.10.10-15.26.03:091][209]LogHttp: Warning: 00000206B5195600: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.10-15.26.03:091][209]LogHttp: Warning: 00000206B5195600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.10.10-15.26.03:091][209]LogHttp: Warning: 00000206B5195600: libcurl info message cache 1 (  Trying 198.18.1.229...)
+[2017.10.10-15.26.03:091][209]LogHttp: Warning: 00000206B5195600: libcurl info message cache 2 (connect to 198.18.1.229 port 443 failed: Timed out)
+[2017.10.10-15.26.03:091][209]LogHttp: Warning: 00000206B5195600: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.10.10-15.26.03:091][209]LogHttp: Warning: 00000206B5195600: libcurl info message cache 4 (Closing connection 21)
+[2017.10.10-15.27.31:634][663]LogBlueprintUserMessages: [plane205] east
+[2017.10.10-15.27.31:718][667]LogBlueprintUserMessages: [plane24] west
+[2017.10.10-15.27.31:775][670]LogBlueprintUserMessages: [plane24] up
+[2017.10.10-15.27.32:368][698]LogBlueprintUserMessages: [plane24] east
+[2017.10.10-15.27.32:467][703]LogBlueprintUserMessages: [plane23] west
+[2017.10.10-15.27.32:541][707]LogBlueprintUserMessages: [plane23] up
+[2017.10.10-15.27.33:135][732]LogBlueprintUserMessages: [plane23] east
+[2017.10.10-15.27.33:239][737]LogBlueprintUserMessages: [plane22] west
+[2017.10.10-15.27.35:113][827]LogBlueprintUserMessages: [player1_C_0] fasle
+[2017.10.10-15.27.35:113][827]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2'!
+[2017.10.10-15.27.35:113][827]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	NewPlayerController2_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewPlayerController2_C_0
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2:0137
+[2017.10.10-15.27.35:113][827]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_NewPlayerController2' from node: Branch in graph: EventGraph in object: NewPlayerController2 with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.10-15.27.35:114][827]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 364
+[2017.10.10-15.27.35:114][827]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2
+
+[2017.10.10-15.29.41:925][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.29.42:053][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.30.03:275][612]LogHttp: Warning: 000002070E005180: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.10-15.30.03:275][612]LogHttp: Warning: 000002070E005180: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.10.10-15.30.03:275][612]LogHttp: Warning: 000002070E005180: libcurl info message cache 1 (  Trying 198.18.1.229...)
+[2017.10.10-15.30.03:278][612]LogHttp: Warning: 000002070E005180: libcurl info message cache 2 (connect to 198.18.1.229 port 443 failed: Timed out)
+[2017.10.10-15.30.03:278][612]LogHttp: Warning: 000002070E005180: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.10.10-15.30.03:278][612]LogHttp: Warning: 000002070E005180: libcurl info message cache 4 (Closing connection 22)
+[2017.10.10-15.30.03:308][613]LogHttp: Warning: 0000020746381300: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.10-15.30.03:308][613]LogHttp: Warning: 0000020746381300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206997ebfe8 [serially])
+[2017.10.10-15.30.03:308][613]LogHttp: Warning: 0000020746381300: libcurl info message cache 1 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2017.10.10-15.30.03:308][613]LogHttp: Warning: 0000020746381300: libcurl info message cache 2 (  Trying 198.18.1.229...)
+[2017.10.10-15.30.03:308][613]LogHttp: Warning: 0000020746381300: libcurl info message cache 3 (connect to 198.18.1.229 port 443 failed: Timed out)
+[2017.10.10-15.30.03:309][613]LogHttp: Warning: 0000020746381300: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.10.10-15.30.03:309][613]LogHttp: Warning: 0000020746381300: libcurl info message cache 5 (Closing connection 23)
+[2017.10.10-15.32.24:374][292]LogHttp: Warning: 0000020718372500: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.10-15.32.24:374][292]LogHttp: Warning: 0000020718372500: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.10.10-15.32.24:374][292]LogHttp: Warning: 0000020718372500: libcurl info message cache 1 (  Trying 198.18.1.229...)
+[2017.10.10-15.32.24:374][292]LogHttp: Warning: 0000020718372500: libcurl info message cache 2 (connect to 198.18.1.229 port 443 failed: Timed out)
+[2017.10.10-15.32.24:374][292]LogHttp: Warning: 0000020718372500: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.10.10-15.32.24:374][292]LogHttp: Warning: 0000020718372500: libcurl info message cache 4 (Closing connection 24)
+[2017.10.10-15.36.38:466][632]LogSavePackage: Save=3052.06ms
+[2017.10.10-15.36.38:466][632]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/FirstPersonExampleMap_Auto3FC2AFC8146E764D8947CAB95FA02022B.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2017.10.10-15.36.38:495][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap
+[2017.10.10-15.36.38:504][632]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 3.177
+[2017.10.10-15.36.38:505][632]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.177
+[2017.10.10-15.36.38:512][632]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/player1] ([1] browsable assets)...
+[2017.10.10-15.36.38:512][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/player1]
+[2017.10.10-15.36.38:834][632]LogSavePackage: Save=301.86ms
+[2017.10.10-15.36.38:834][632]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/player1_Auto3673421EF4AE244B8D6F403ACDE221EF8.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player1_Auto3.uasset'
+[2017.10.10-15.36.38:840][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player1_Auto3.uasset
+[2017.10.10-15.36.38:841][632]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewPlayerController2] ([1] browsable assets)...
+[2017.10.10-15.36.38:841][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewPlayerController2]
+[2017.10.10-15.36.38:981][632]LogSavePackage: Save=118.56ms
+[2017.10.10-15.36.38:981][632]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/NewPlayerController2_Auto3024E8C4A4163D48815CC9DAE13F0A146.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/Blueprints/NewPlayerController2_Auto3.uasset'
+[2017.10.10-15.36.38:989][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/Blueprints/NewPlayerController2_Auto3.uasset
+[2017.10.10-15.36.38:991][632]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/player2] ([1] browsable assets)...
+[2017.10.10-15.36.38:991][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/player2]
+[2017.10.10-15.36.39:275][632]LogSavePackage: Save=265.01ms
+[2017.10.10-15.36.39:275][632]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/player2_Auto3168F9B1D412C46EC87D34883D2A12204.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player2_Auto3.uasset'
+[2017.10.10-15.36.39:280][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player2_Auto3.uasset
+[2017.10.10-15.36.39:281][632]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/exploiveBomb] ([1] browsable assets)...
+[2017.10.10-15.36.39:334][632]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/exploiveBomb.exploiveBomb]
+[2017.10.10-15.36.39:334][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/exploiveBomb]
+[2017.10.10-15.36.39:432][632]LogSavePackage: Save=75.64ms
+[2017.10.10-15.36.39:432][632]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/exploiveBomb_Auto3D30D751F4672F5F768AD4A963063975E.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/exploiveBomb_Auto3.uasset'
+[2017.10.10-15.36.39:437][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/exploiveBomb_Auto3.uasset
+[2017.10.10-15.36.39:437][632]LogFileHelpers: Auto-saving content packages took 0.927
+[2017.10.10-15.36.42:054][703]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-15.36.42:109][703]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.36.42:109][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-15.36.42:109][703]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 5:36:42 pm)
+[2017.10.10-15.36.42:109][703]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-15.36.42:213][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103994s)
+[2017.10.10-15.36.42:215][703]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-15.36.42:215][703]LogPlayLevel: PIE: World Init took: (0.001778s)
+[2017.10.10-15.36.42:216][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.106586s)
+[2017.10.10-15.36.42:272][703]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-15.36.42:285][703]LogInit: FAudioDevice initialized.
+[2017.10.10-15.36.42:322][703]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-15.36.42:353][703]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-04.36.42
+[2017.10.10-15.36.42:380][703]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-15.36.42:380][703]LogWorld: Bringing up level for play took: 0.056780
+[2017.10.10-15.36.42:382][703]LogBlueprintUserMessages: [FirstPersonExampleMap_C_2] i am player 1
+[2017.10.10-15.36.42:385][703]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-15.36.42:385][703]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.629
+[2017.10.10-15.36.42:385][703]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.36.43:330][756]LogBlueprintUserMessages: [plane205] east
+[2017.10.10-15.36.49:268][897]EditorErrors: New page: Actor attachment
+[2017.10.10-15.36.51:708][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.36.51:792][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.37.26:976][202]BlueprintLog: New page: Compile NewPlayerController2
+[2017.10.10-15.37.31:154][359]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-15.37.31:198][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.37.31:198][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-15.37.31:198][359]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 5:37:31 pm)
+[2017.10.10-15.37.31:198][359]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-15.37.31:303][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104155s)
+[2017.10.10-15.37.31:304][359]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-15.37.31:304][359]LogPlayLevel: PIE: World Init took: (0.001487s)
+[2017.10.10-15.37.31:305][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.106152s)
+[2017.10.10-15.37.31:356][359]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-15.37.31:367][359]LogInit: FAudioDevice initialized.
+[2017.10.10-15.37.31:403][359]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-15.37.31:433][359]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-04.37.31
+[2017.10.10-15.37.31:452][359]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-15.37.31:452][359]LogWorld: Bringing up level for play took: 0.048505
+[2017.10.10-15.37.31:454][359]LogBlueprintUserMessages: [FirstPersonExampleMap_C_2] i am player 1
+[2017.10.10-15.37.31:459][359]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-15.37.31:459][359]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.445
+[2017.10.10-15.37.31:459][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.37.33:041][446]LogBlueprintUserMessages: [player1_C_0] fasle
+[2017.10.10-15.37.33:042][446]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_22
+	NewPlayerController2_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewPlayerController2_C_0
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2:0100
+[2017.10.10-15.37.33:042][446]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_22 from function: 'ExecuteUbergraph_NewPlayerController2' from node: Branch in graph: EventGraph in object: NewPlayerController2 with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_22
+[2017.10.10-15.37.33:042][446]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 309
+[2017.10.10-15.37.33:042][446]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2
+
+[2017.10.10-15.37.52:327][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.37.52:411][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.38.09:169][229]BlueprintLog: New page: Compile NewPlayerController2
+[2017.10.10-15.38.20:129][735]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-15.38.20:175][735]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.38.20:176][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-15.38.20:176][735]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 5:38:20 pm)
+[2017.10.10-15.38.20:176][735]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-15.38.20:279][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103328s)
+[2017.10.10-15.38.20:280][735]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-15.38.20:281][735]LogPlayLevel: PIE: World Init took: (0.001893s)
+[2017.10.10-15.38.20:282][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.106149s)
+[2017.10.10-15.38.20:330][735]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-15.38.20:342][735]LogInit: FAudioDevice initialized.
+[2017.10.10-15.38.20:380][735]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-15.38.20:410][735]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-04.38.20
+[2017.10.10-15.38.20:429][735]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-15.38.20:429][735]LogWorld: Bringing up level for play took: 0.047907
+[2017.10.10-15.38.20:431][735]LogBlueprintUserMessages: [FirstPersonExampleMap_C_2] i am player 1
+[2017.10.10-15.38.20:433][735]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-15.38.20:434][735]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.581
+[2017.10.10-15.38.20:434][735]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.38.22:111][824]LogBlueprintUserMessages: [player1_C_0] fasle
+[2017.10.10-15.38.22:111][824]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_22
+	NewPlayerController2_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewPlayerController2_C_0
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2:0100
+[2017.10.10-15.38.22:111][824]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_22 from function: 'ExecuteUbergraph_NewPlayerController2' from node: Branch in graph: EventGraph in object: NewPlayerController2 with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_22
+[2017.10.10-15.38.22:111][824]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 309
+[2017.10.10-15.38.22:111][824]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2
+
+[2017.10.10-15.38.31:724][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.38.31:810][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.39.20:491][815]LogHttp: Warning: 000002070C15D480: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.10-15.39.20:491][815]LogHttp: Warning: 000002070C15D480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206997ebfe8 [can pipeline])
+[2017.10.10-15.39.20:491][815]LogHttp: Warning: 000002070C15D480: libcurl info message cache 1 (Connection 27 seems to be dead!)
+[2017.10.10-15.39.20:491][815]LogHttp: Warning: 000002070C15D480: libcurl info message cache 2 (Closing connection 27)
+[2017.10.10-15.39.20:491][815]LogHttp: Warning: 000002070C15D480: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.10.10-15.39.20:491][815]LogHttp: Warning: 000002070C15D480: libcurl info message cache 4 (  Trying 198.18.1.229...)
+[2017.10.10-15.39.20:491][815]LogHttp: Warning: 000002070C15D480: libcurl info message cache 5 (connect to 198.18.1.229 port 443 failed: Timed out)
+[2017.10.10-15.39.20:491][815]LogHttp: Warning: 000002070C15D480: libcurl info message cache 6 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.10.10-15.39.20:491][815]LogHttp: Warning: 000002070C15D480: libcurl info message cache 7 (Closing connection 28)
+[2017.10.10-15.41.41:880][574]LogHttp: Warning: 000002071CCB3280: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.10-15.41.41:880][574]LogHttp: Warning: 000002071CCB3280: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.10.10-15.41.41:880][574]LogHttp: Warning: 000002071CCB3280: libcurl info message cache 1 (  Trying 198.18.1.229...)
+[2017.10.10-15.41.41:880][574]LogHttp: Warning: 000002071CCB3280: libcurl info message cache 2 (connect to 198.18.1.229 port 443 failed: Timed out)
+[2017.10.10-15.41.41:880][574]LogHttp: Warning: 000002071CCB3280: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.10.10-15.41.41:880][574]LogHttp: Warning: 000002071CCB3280: libcurl info message cache 4 (Closing connection 29)
+[2017.10.10-15.48.37:096][646]BlueprintLog: New page: Compile NewPlayerController2
+[2017.10.10-15.48.50:148][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-15.48.50:206][ 32]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.48.50:206][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-15.48.50:206][ 32]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 5:48:50 pm)
+[2017.10.10-15.48.50:206][ 32]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-15.48.50:332][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125954s)
+[2017.10.10-15.48.50:334][ 32]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-15.48.50:335][ 32]LogPlayLevel: PIE: World Init took: (0.002464s)
+[2017.10.10-15.48.50:335][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.129194s)
+[2017.10.10-15.48.50:402][ 32]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-15.48.50:419][ 32]LogInit: FAudioDevice initialized.
+[2017.10.10-15.48.50:457][ 32]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-15.48.50:499][ 32]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-04.48.50
+[2017.10.10-15.48.50:521][ 32]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-15.48.50:521][ 32]LogWorld: Bringing up level for play took: 0.063260
+[2017.10.10-15.48.50:523][ 32]LogBlueprintUserMessages: [FirstPersonExampleMap_C_2] i am player 1
+[2017.10.10-15.48.50:526][ 32]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-15.48.50:526][ 32]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.487
+[2017.10.10-15.48.50:527][ 32]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.48.52:195][123]LogBlueprintUserMessages: [player1_C_0] fasle
+[2017.10.10-15.48.52:196][123]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_2
+	NewPlayerController2_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewPlayerController2_C_0
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2:01AE
+[2017.10.10-15.48.52:196][123]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_2 from function: 'ExecuteUbergraph_NewPlayerController2' from node: Branch in graph: EventGraph in object: NewPlayerController2 with description: Accessed None trying to read property K2Node_DynamicCast_AsPlayer_2
+[2017.10.10-15.48.52:196][123]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 483
+[2017.10.10-15.48.52:196][123]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2
+
+[2017.10.10-15.49.08:159][123]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.49.08:258][123]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-15.50.17:747][428]LogSavePackage: Save=3070.72ms
+[2017.10.10-15.50.17:747][428]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/FirstPersonExampleMap_Auto40041E15942D380D6469DBDBD61CD8420.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2017.10.10-15.50.17:752][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap
+[2017.10.10-15.50.17:761][428]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 3.185
+[2017.10.10-15.50.17:761][428]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.185
+[2017.10.10-15.50.17:766][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/player1] ([1] browsable assets)...
+[2017.10.10-15.50.17:766][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/player1]
+[2017.10.10-15.50.18:129][428]LogSavePackage: Save=307.48ms
+[2017.10.10-15.50.18:129][428]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/player1_Auto4B92B0F584F5947160FD79D9AAD3FA5AA.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player1_Auto4.uasset'
+[2017.10.10-15.50.18:133][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player1_Auto4.uasset
+[2017.10.10-15.50.18:134][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewPlayerController2] ([1] browsable assets)...
+[2017.10.10-15.50.18:134][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewPlayerController2]
+[2017.10.10-15.50.18:311][428]LogSavePackage: Save=123.02ms
+[2017.10.10-15.50.18:312][428]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/NewPlayerController2_Auto492D6E7D2499B23BBE9797891E2D6FB72.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/Blueprints/NewPlayerController2_Auto4.uasset'
+[2017.10.10-15.50.18:316][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/Blueprints/NewPlayerController2_Auto4.uasset
+[2017.10.10-15.50.18:317][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/player2] ([1] browsable assets)...
+[2017.10.10-15.50.18:317][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/player2]
+[2017.10.10-15.50.18:616][428]LogSavePackage: Save=250.69ms
+[2017.10.10-15.50.18:616][428]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/player2_Auto4D95B310A404F52BECFFC64A80FFCACDD.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player2_Auto4.uasset'
+[2017.10.10-15.50.18:620][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player2_Auto4.uasset
+[2017.10.10-15.50.18:622][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/exploiveBomb] ([1] browsable assets)...
+[2017.10.10-15.50.18:661][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/exploiveBomb.exploiveBomb]
+[2017.10.10-15.50.18:661][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/exploiveBomb]
+[2017.10.10-15.50.18:786][428]LogSavePackage: Save=84.87ms
+[2017.10.10-15.50.18:786][428]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/exploiveBomb_Auto43E3C78C54D0655EFD291D79849E8DF0B.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/exploiveBomb_Auto4.uasset'
+[2017.10.10-15.50.18:791][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/exploiveBomb_Auto4.uasset
+[2017.10.10-15.50.18:792][428]LogFileHelpers: Auto-saving content packages took 1.028
+[2017.10.10-16.00.20:381][459]LogHttp: Warning: 000002073F083D00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.10-16.00.20:381][459]LogHttp: Warning: 000002073F083D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x206997ebfe8 [can pipeline])
+[2017.10.10-16.00.20:381][459]LogHttp: Warning: 000002073F083D00: libcurl info message cache 1 (Connection 35 seems to be dead!)
+[2017.10.10-16.00.20:381][459]LogHttp: Warning: 000002073F083D00: libcurl info message cache 2 (Closing connection 35)
+[2017.10.10-16.00.20:381][459]LogHttp: Warning: 000002073F083D00: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.10.10-16.00.20:381][459]LogHttp: Warning: 000002073F083D00: libcurl info message cache 4 (  Trying 198.18.1.229...)
+[2017.10.10-16.00.20:381][459]LogHttp: Warning: 000002073F083D00: libcurl info message cache 5 (connect to 198.18.1.229 port 443 failed: Timed out)
+[2017.10.10-16.00.20:381][459]LogHttp: Warning: 000002073F083D00: libcurl info message cache 6 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.10.10-16.00.20:381][459]LogHttp: Warning: 000002073F083D00: libcurl info message cache 7 (Closing connection 36)
+[2017.10.10-16.01.56:769][720]BlueprintLog: New page: Compile NewPlayerController2
+[2017.10.10-16.01.57:026][720]LogBlueprint: Warning: [Compiler NewPlayerController2] 'Player 2' does not inherit from 'Player State' ( Cast To player2  would always fail).
+[2017.10.10-16.01.57:027][720]LogBlueprint: Warning: [Compiler NewPlayerController2] 'Player 1' does not inherit from 'Player State' ( Cast To player1  would always fail).
+[2017.10.10-16.01.58:133][720]LogBlueprint: Warning: [Compiler NewPlayerController2] [4854.94] Compile of NewPlayerController2 successful, but with 2 Warning(s) [in 1,364 ms] (/Game/Blueprints/NewPlayerController2.NewPlayerController2)
+[2017.10.10-16.02.28:046][132]BlueprintLog: New page: Compile NewPlayerController2
+[2017.10.10-16.02.37:056][515]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-16.02.37:117][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-16.02.37:117][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-16.02.37:117][515]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 6:02:37 pm)
+[2017.10.10-16.02.37:117][515]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-16.02.37:240][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121841s)
+[2017.10.10-16.02.37:241][515]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-16.02.37:242][515]LogPlayLevel: PIE: World Init took: (0.002116s)
+[2017.10.10-16.02.37:243][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.124778s)
+[2017.10.10-16.02.37:298][515]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-16.02.37:311][515]LogInit: FAudioDevice initialized.
+[2017.10.10-16.02.37:348][515]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-16.02.37:381][515]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-05.02.37
+[2017.10.10-16.02.37:401][515]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-16.02.37:402][515]LogWorld: Bringing up level for play took: 0.052830
+[2017.10.10-16.02.37:404][515]LogBlueprintUserMessages: [FirstPersonExampleMap_C_0] i am player 1
+[2017.10.10-16.02.37:406][515]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-16.02.37:406][515]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.392
+[2017.10.10-16.02.37:407][515]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-16.02.56:393][533]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_DynamicCast', from offset 59
+[2017.10.10-16.02.56:393][533]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2
+
+[2017.10.10-16.03.08:564][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-16.03.08:650][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-16.04.06:078][187]LogSavePackage: Save=3067.45ms
+[2017.10.10-16.04.06:078][187]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/FirstPersonExampleMap_Auto5FCA2E89749D98F67BC2DB991D4A34829.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2017.10.10-16.04.06:084][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap
+[2017.10.10-16.04.06:090][187]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 3.156
+[2017.10.10-16.04.06:090][187]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.156
+[2017.10.10-16.04.06:095][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/player1] ([1] browsable assets)...
+[2017.10.10-16.04.06:095][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/player1]
+[2017.10.10-16.04.06:416][187]LogSavePackage: Save=296.51ms
+[2017.10.10-16.04.06:417][187]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/player1_Auto5400E5FE540733C8A10CEC0B073BF450A.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player1_Auto5.uasset'
+[2017.10.10-16.04.06:420][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player1_Auto5.uasset
+[2017.10.10-16.04.06:421][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewPlayerController2] ([1] browsable assets)...
+[2017.10.10-16.04.06:421][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewPlayerController2]
+[2017.10.10-16.04.06:562][187]LogSavePackage: Save=118.39ms
+[2017.10.10-16.04.06:562][187]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/NewPlayerController2_Auto51EF1227846BE6D819AA8E18E82774795.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/Blueprints/NewPlayerController2_Auto5.uasset'
+[2017.10.10-16.04.06:568][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/Blueprints/NewPlayerController2_Auto5.uasset
+[2017.10.10-16.04.06:569][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/player2] ([1] browsable assets)...
+[2017.10.10-16.04.06:569][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/player2]
+[2017.10.10-16.04.06:833][187]LogSavePackage: Save=243.03ms
+[2017.10.10-16.04.06:833][187]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/player2_Auto5B4AE49DB43E2A5946F8DF7ABFC89200D.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player2_Auto5.uasset'
+[2017.10.10-16.04.06:838][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player2_Auto5.uasset
+[2017.10.10-16.04.06:839][187]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/exploiveBomb] ([1] browsable assets)...
+[2017.10.10-16.04.06:866][187]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/exploiveBomb.exploiveBomb]
+[2017.10.10-16.04.06:867][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/exploiveBomb]
+[2017.10.10-16.04.06:972][187]LogSavePackage: Save=82.98ms
+[2017.10.10-16.04.06:975][187]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/exploiveBomb_Auto5EF7A17854FC0AD65C62A57B5D37C6748.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/exploiveBomb_Auto5.uasset'
+[2017.10.10-16.04.06:980][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/exploiveBomb_Auto5.uasset
+[2017.10.10-16.04.06:980][187]LogFileHelpers: Auto-saving content packages took 0.887
+[2017.10.10-16.14.12:614][463]BlueprintLog: New page: Compile NewPlayerController2
+[2017.10.10-16.14.18:492][649]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-16.14.18:550][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-16.14.18:550][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-16.14.18:550][649]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 6:14:18 pm)
+[2017.10.10-16.14.18:550][649]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-16.14.18:656][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105706s)
+[2017.10.10-16.14.18:658][649]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-16.14.18:659][649]LogPlayLevel: PIE: World Init took: (0.002710s)
+[2017.10.10-16.14.18:659][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.109096s)
+[2017.10.10-16.14.18:720][649]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-16.14.18:742][649]LogInit: FAudioDevice initialized.
+[2017.10.10-16.14.18:778][649]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-16.14.18:808][649]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-05.14.18
+[2017.10.10-16.14.18:826][649]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-16.14.18:826][649]LogWorld: Bringing up level for play took: 0.047578
+[2017.10.10-16.14.18:828][649]LogBlueprintUserMessages: [FirstPersonExampleMap_C_2] i am player 1
+[2017.10.10-16.14.18:831][649]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-16.14.18:831][649]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.183
+[2017.10.10-16.14.18:832][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-16.14.21:036][767]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_DynamicCast', from offset 65
+[2017.10.10-16.14.21:036][767]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2
+
+[2017.10.10-16.14.28:996][767]LogBlueprintUserMessages: [player1_C_0] fasle
+[2017.10.10-16.14.28:996][767]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 0 in '/Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2'!
+[2017.10.10-16.14.28:996][767]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	NewPlayerController2_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewPlayerController2_C_0
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2:01BB
+[2017.10.10-16.14.28:997][767]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item3 from function: 'ExecuteUbergraph_NewPlayerController2' from node: Branch in graph: EventGraph in object: NewPlayerController2 with description: Accessed None trying to read property CallFunc_Array_Get_Item3
+[2017.10.10-16.14.28:997][767]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 496
+[2017.10.10-16.14.28:997][767]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2
+
+[2017.10.10-16.16.38:586][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-16.16.38:685][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-16.17.06:150][787]LogSavePackage: Save=3071.37ms
+[2017.10.10-16.17.06:150][787]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/FirstPersonExampleMap_Auto6629104F245EE648A77AB07916968932A.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2017.10.10-16.17.06:156][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap
+[2017.10.10-16.17.06:164][787]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 3.201
+[2017.10.10-16.17.06:164][787]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.201
+[2017.10.10-16.17.06:169][787]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/player1] ([1] browsable assets)...
+[2017.10.10-16.17.06:169][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/player1]
+[2017.10.10-16.17.06:489][787]LogSavePackage: Save=298.82ms
+[2017.10.10-16.17.06:489][787]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/player1_Auto691709D264574C5C36F58E1B12A6E5E84.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player1_Auto6.uasset'
+[2017.10.10-16.17.06:496][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player1_Auto6.uasset
+[2017.10.10-16.17.06:497][787]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewPlayerController2] ([1] browsable assets)...
+[2017.10.10-16.17.06:497][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewPlayerController2]
+[2017.10.10-16.17.06:638][787]LogSavePackage: Save=118.05ms
+[2017.10.10-16.17.06:638][787]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/NewPlayerController2_Auto67A9E118B47CA84A1E16864A73AE4A681.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/Blueprints/NewPlayerController2_Auto6.uasset'
+[2017.10.10-16.17.06:642][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/Blueprints/NewPlayerController2_Auto6.uasset
+[2017.10.10-16.17.06:643][787]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/player2] ([1] browsable assets)...
+[2017.10.10-16.17.06:643][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/player2]
+[2017.10.10-16.17.06:924][787]LogSavePackage: Save=257.51ms
+[2017.10.10-16.17.06:924][787]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/player2_Auto620B6525F45DDBD6F06058398829A9D9D.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player2_Auto6.uasset'
+[2017.10.10-16.17.06:930][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/FirstPersonBP/Blueprints/player2_Auto6.uasset
+[2017.10.10-16.17.06:931][787]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/exploiveBomb] ([1] browsable assets)...
+[2017.10.10-16.17.06:955][787]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/exploiveBomb.exploiveBomb]
+[2017.10.10-16.17.06:955][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/exploiveBomb]
+[2017.10.10-16.17.07:062][787]LogSavePackage: Save=79.10ms
+[2017.10.10-16.17.07:062][787]LogSavePackage: Moving '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/exploiveBomb_Auto68442CBDA4DF0F0E9935EB399769381D1.tmp' to '../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/exploiveBomb_Auto6.uasset'
+[2017.10.10-16.17.07:068][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Nik/Documents/GItKraken/take 2.2/simple maze - Copy - Copy 4.16/Saved/Autosaves/Game/exploiveBomb_Auto6.uasset
+[2017.10.10-16.17.07:068][787]LogFileHelpers: Auto-saving content packages took 0.900
+[2017.10.10-16.19.07:619][888]BlueprintLog: New page: Compile NewPlayerController2
+[2017.10.10-16.19.18:921][300]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-16.19.18:984][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-16.19.18:984][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-16.19.18:984][300]PIE: New page: PIE session: FirstPersonExampleMap (11/10/2017 6:19:18 pm)
+[2017.10.10-16.19.18:985][300]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.10.10-16.19.19:118][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133752s)
+[2017.10.10-16.19.19:120][300]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-16.19.19:120][300]LogPlayLevel: PIE: World Init took: (0.001995s)
+[2017.10.10-16.19.19:121][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.136480s)
+[2017.10.10-16.19.19:181][300]LogInit: XAudio2 using 'Speakers / Headphones (2- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2017.10.10-16.19.19:197][300]LogInit: FAudioDevice initialized.
+[2017.10.10-16.19.19:232][300]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2017.10.10-16.19.19:264][300]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.10.11-05.19.19
+[2017.10.10-16.19.19:283][300]LogBlueprintUserMessages: [plane122] up
+[2017.10.10-16.19.19:283][300]LogWorld: Bringing up level for play took: 0.050206
+[2017.10.10-16.19.19:285][300]LogBlueprintUserMessages: [FirstPersonExampleMap_C_0] i am player 1
+[2017.10.10-16.19.19:287][300]LogBlueprintUserMessages: [plane205] up
+[2017.10.10-16.19.19:287][300]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.273
+[2017.10.10-16.19.19:288][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-16.19.20:243][344]LogBlueprintUserMessages: [player1_C_0] fasle
+[2017.10.10-16.19.20:243][344]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2'!
+[2017.10.10-16.19.20:243][344]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	NewPlayerController2_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NewPlayerController2_C_0
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2:0137
+[2017.10.10-16.19.20:244][344]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_NewPlayerController2' from node: Branch in graph: EventGraph in object: NewPlayerController2 with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.10-16.19.20:619][363]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.21:415][402]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.22:054][433]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.22:580][459]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.22:958][478]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.23:627][511]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.23:873][521]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.24:120][530]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.24:642][551]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.24:887][563]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.25:099][573]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.25:321][584]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.25:671][602]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.25:872][612]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.26:088][622]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.26:511][643]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.26:774][656]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.27:056][669]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.27:287][680]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.27:505][691]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.27:890][709]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.28:100][718]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.28:379][732]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.28:580][742]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.28:798][753]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.29:028][764]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.39:600][258]LogBlueprintUserMessages: [player2_542] fasle
+[2017.10.10-16.19.39:600][258]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 364
+[2017.10.10-16.19.39:600][258]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/NewPlayerController2.NewPlayerController2_C:ExecuteUbergraph_NewPlayerController2
+
+[2017.10.10-16.19.48:040][258]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-16.19.48:139][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.10.10-16.20.01:841][847]LogEditorTransaction: Undo Delete current selection
+[2017.10.10-16.20.02:092][852]LogEditorTransaction: Undo Delete current selection
+[2017.10.10-16.20.02:264][855]LogEditorTransaction: Undo Delete current selection
+[2017.10.10-16.20.02:458][859]LogEditorTransaction: Undo Rename Function
+[2017.10.10-16.20.02:599][863]LogEditorTransaction: Undo Rename Function
+[2017.10.10-16.20.02:781][869]LogEditorTransaction: Undo Add New Function
+[2017.10.10-16.20.02:953][874]LogEditorTransaction: Undo Move Node
+[2017.10.10-16.20.03:137][877]LogEditorTransaction: Undo Move Node
+[2017.10.10-16.20.03:327][881]LogEditorTransaction: Undo Add Node
+[2017.10.10-16.20.03:494][884]LogEditorTransaction: Undo Create Pin Link
+[2017.10.10-16.20.03:671][887]LogEditorTransaction: Undo Add Node
+[2017.10.10-16.20.03:962][887]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.180 s
+[2017.10.10-16.20.03:962][887]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.10-16.20.03:962][887]LogOutputDevice: Error: 
+[2017.10.10-16.20.03:962][887]LogOutputDevice: Error: Ensure condition failed: WatchedPin [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\GraphEditor\Private\KismetNodes\KismetNodeInfoContext.cpp] [Line: 92]
+[2017.10.10-16.20.03:962][887]LogOutputDevice: Error: 
+[2017.10.10-16.20.03:962][887]LogOutputDevice: Error: Stack: 
+[2017.10.10-16.20.03:962][887]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000046513E36
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000004629C2D2
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000462B4746
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x0000000037F2FAB9
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000380710D6
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308BA9
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308667
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000045E0F86B
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308667
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308667
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000045E0F63D
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308BA9
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D30A836
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308CDD
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308667
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D30A836
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000045E13925
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308667
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D30A836
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000045E13925
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308BA9
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308667
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D30A836
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308CDD
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308667
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308667
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000045E0F63D
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308BA9
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D30A836
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308CDD
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308667
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D30A836
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000045E13925
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308BA9
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308667
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D30A836
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308CDD
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D30A836
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308CDD
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308BA9
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308667
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D308D7A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000004D309F2A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000045BC0A8A
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000045BC1AA8
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000045BF5C10
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000045BC1B50
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000045C1C297
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000045C1B335
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor.exe!0x00000000B2F85DFD
+[2017.10.10-16.20.03:963][887]LogOutputDevice: Error: UE4Editor.exe!0x00000000B2F93970
+[2017.10.10-16.20.03:964][887]LogOutputDevice: Error: UE4Editor.exe!0x00000000B2F939EA
+[2017.10.10-16.20.03:964][887]LogOutputDevice: Error: UE4Editor.exe!0x00000000B2FA02D9
+[2017.10.10-16.20.03:964][887]LogOutputDevice: Error: UE4Editor.exe!0x00000000B2FA1C47
+[2017.10.10-16.20.03:964][887]LogOutputDevice: Error: KERNEL32.DLL!0x0000000091D78364
+[2017.10.10-16.20.03:964][887]LogOutputDevice: Error: ntdll.dll!0x0000000091E87091
+[2017.10.10-16.20.03:964][887]LogOutputDevice: Error: 
+[2017.10.10-16.20.03:971][887]LogStats:                SubmitErrorReport -  0.000 s
